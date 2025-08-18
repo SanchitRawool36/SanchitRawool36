@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  I'm a passionate Computer Science student from India, focused on turning complex ideas into functional and elegant software solutions.
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7A2&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sanchit%2C+a+CS+Student+from+India.;I+love+exploring+the+world+of+Prompt+Engineering;...and+turning+complex+ideas+into+elegant+solutions." alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -13,12 +13,23 @@
 - **Game Development:** Building interactive and fun pixel-based games.
 
 ---
-### 🛠️ My Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,mysql,git,docker,postman" />
-  </a>
-</p>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="70%">
+        <h3>🛠️ My Tech Stack (<a href="https://profile36.netlify.app/">View My Portfolio</a>)</h3>
+        <p>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,mysql,git,docker,postman" />
+          </a>
+        </p>
+      </td>
+      <td width="30%" align="center">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2J4cmQ3NHZoaWZ6dnhkbzB3cGlqeHd6OHFqNWwyaGI4aGd2bWJsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oQht1Hk7HJ8USa5jrK/giphy.gif" alt="coding sticker" width="100"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 ### Featured Projects
@@ -52,7 +63,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SanchitR-dev&theme=radical&row=1&margin-w=20&exclude=stars,reviews,issues,experience" alt="Sanchit's Trophies" />
   <br>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTR5Y29nbW5qcGc0bHN3dXkzbWhsY3Q2eXZhMndsZ2FhM2V2cHNreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="dev meme" width="400"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5ydGxyNjd2dnZhbHIxdWFteGptYXloY3NxM2dpOXZ4OGtkYjl1cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oQht1Hk7HJ8USa5jrK/giphy.gif" alt="coding sticker" width="150"/>
 </p>
 
 ---

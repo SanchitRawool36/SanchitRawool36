@@ -55,7 +55,7 @@ I'm a passionate Third Year Computer Science student from India, with a love for
 ### 🐍 My Contribution Graph Snake
 
 <p align="center">
-  <img src="https://github.com/SanchitR-dev/SanchitR-dev/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/SanchitR-dev/SanchitR-dev/raw/main/dist/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---

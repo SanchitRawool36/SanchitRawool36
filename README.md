@@ -1,78 +1,61 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3d6OHdyMmF4enVnaXBkdHA1cGozOWxtZjhwbG44M2l2eWRwM25uZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00F7A2&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Sanchit+Rawool+👋;A+Developer+%26+Problem+Solver;Always+Learning+and+Building." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sanchit!;I'm+a+CS+Student+%26+Developer;I+love+to+build+%26+learn." alt="Typing SVG" /></a>
+  I'm a passionate Computer Science student from India, focused on turning complex ideas into functional and elegant software solutions.
 </p>
 
-I'm a passionate Third Year Computer Science student from India, with a love for building creative and functional applications. I'm currently exploring the worlds of web development and data science.
+---
+### 🚀 Core Interests
+- **Full-Stack Development:** Crafting seamless user experiences from front to back.
+- **Artificial Intelligence:** Exploring AI-driven solutions to enhance applications.
+- **Problem Solving:** Applying data structures and algorithms to build efficient code.
 
 ---
-
-### 🚀 My Tech Stack
-
-<p align="left">
+### 🛠️ My Tech Stack
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,mongodb,mysql,git,docker" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,mysql,git,docker,postman" />
   </a>
 </p>
 
 ---
-
-### 💼 Projects & Experience
-
--   **AI Cafe System (5th Sem Project):** Developed an AI-based system to streamline operations for cafes and restaurants. **[Live Demo](https://foodiefrd.netlify.app/)**
--   **Recircle (In Collaboration):** Currently building a full-stack web application focused on recycling and sustainability. **[Live Demo](https://recircle-pro-front.vercel.app/)**
--   **Personal Portfolio:** Building and refining my personal portfolio website to showcase my work. **[Live Demo](https://profile36.netlify.app/)**
-
----
-
-### 🔮 Upcoming Projects
-
--   **3D Jewellery Site:** A modern e-commerce platform featuring a virtual "Try Now" capability.
--   **Raw Pulse HMS:** An AI-enhanced Hospital Management System to improve patient and staff experiences.
+### Featured Projects
+| Project Name                  | Description                                                              | Live Demo / Link                                                               |
+| ----------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| **AI Cafe System** | An AI-based system to streamline operations for cafes and restaurants.   | **[Live Demo](https://foodiefrd.netlify.app/)** |
+| **Recircle (Collaboration)** | A web app focused on promoting recycling and sustainability.             | **[Live Demo](https://recircle-pro-front.vercel.app/)** |
+| **Personal Portfolio** | My personal site to showcase projects and skills.                        | **[Live Demo](https://profile36.netlify.app/)** |
 
 ---
-
-### 🌱 I’m Currently Learning
-
--   Advanced concepts in React State Management.
--   How to deploy applications using Docker and NGINX.
--   Data Structures and Algorithms for competitive programming.
+### 🔮 On The Horizon
+- **3D Jewellery Site:** An e-commerce platform featuring a virtual "Try Now" capability.
+- **Raw Pulse HMS:** An AI-enhanced Hospital Management System for patient and staff management.
 
 ---
-
-### 📊 My GitHub Stats
-
+### 📊 My GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanchitR-dev&show_icons=true&theme=radical" alt="sanchit's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchitR-dev&layout=compact&theme=radical" alt="sanchit's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SanchitR-dev&show_icons=true&theme=radical&rank_icon=github" alt="sanchit's github stats" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SanchitR-dev&theme=radical&row=1" alt="Sanchit's Trophies" />
 </p>
 
 ---
-
-### 🐍 My Contribution Graph Snake
-
+### 🐍 My Contribution Graph
 <p align="center">
   <img src="https://github.com/SanchitR-dev/SanchitR-dev/raw/main/dist/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
-
-### 🎮 Just for Fun
-
+### 🃏 Just for Fun
 <p align="center">
-  <i>Building fun mini-projects like pixel games and custom GIFs!</i>
-  <br><br>
-  <img src="https://media.giphy.com/media/wIqCMz驍wNO/giphy.gif" width="150">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </p>
 
 ---
-
-### 📫 How to reach me:
-
-<p align="left">
+### 📫 Let's Connect!
+<p align="center">
 <a href="https://www.linkedin.com/in/sanchit-rawool-136879313/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sanchit Rawool" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sanchit_rawool/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanchit_rawool" height="30" width="40" /></a>
 </p>

@@ -1,16 +1,18 @@
 <p align="center">
-  <h1>Hi there, I'm Sanchit Rawool 👋</h1>
+  <a href="https://your-portfolio-link.com/games">
+    <img src="https://media.giphy.com/media/6iRkh7tL2v1wA/giphy.gif" alt="Playable Pixel Game Banner"/>
+  </a>
 </p>
 
 <p align="center">
-  I'm a passionate Computer Science student from India, focused on turning complex ideas into functional and elegant software solutions.
+  Hi, I'm Sanchit Rawool 👋. I'm a passionate Computer Science student from India, focused on turning complex ideas into functional and elegant software solutions.
 </p>
 
 ---
 ### 🚀 Core Interests
 - **Full-Stack Development:** Crafting seamless user experiences from front to back.
 - **Artificial Intelligence:** Exploring AI-driven solutions to enhance applications.
-- **Problem Solving:** Applying data structures and algorithms to build efficient code.
+- **Game Development:** Building interactive and fun pixel-based games.
 
 ---
 ### 🛠️ My Tech Stack
@@ -34,11 +36,9 @@
 - **Raw Pulse HMS:** An AI-enhanced Hospital Management System for patient and staff management.
 
 ---
-### 📊 My GitHub Stats & Trophies
+### 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SanchitR-dev&show_icons=true&theme=radical&rank_icon=github" alt="sanchit's github stats" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=SanchitR-dev&theme=radical&row=1" alt="Sanchit's Trophies" />
 </p>
 
 ---
@@ -48,9 +48,13 @@
 </p>
 
 ---
-### 🃏 Just for Fun
+### 🎮 Just for Fun & Trophies
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SanchitR-dev&theme=radical&row=1&margin-w=20" alt="Sanchit's Trophies" />
+  <br>
+  <a href="https://github.com/tech-trove/tech-trove#tech-trove">
+    <img src="https://tech-trove-gules.vercel.app/api/memes" alt="dev meme" height="250px" width="400px"/>
+  </a>
 </p>
 
 ---

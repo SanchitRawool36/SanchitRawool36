@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://your-portfolio-link.com/games">
-    <img src="https://media.giphy.com/media/6iRkh7tL2v1wA/giphy.gif" alt="Playable Pixel Game Banner"/>
+  <a href="https://profile36.netlify.app/">
+    <img src="https://media.giphy.com/media/xUA7b4arnbo3i7gVzO/giphy.gif" alt="Playable Pixel Game Banner"/>
   </a>
 </p>
 
@@ -53,7 +53,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SanchitR-dev&theme=radical&row=1&margin-w=20&exclude=stars,reviews,issues,experience" alt="Sanchit's Trophies" />
   <br>
-  <img src="https://random-memer.herokuapp.com/meme" alt="dev meme"/>
+  <img src="https://dev-memes.herokuapp.com/meme" alt="dev meme"/>
 </p>
 
 ---

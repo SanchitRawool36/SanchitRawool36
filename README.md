@@ -1,11 +1,9 @@
 <p align="center">
-  <a href="https://profile36.netlify.app/">
-    <img src="https://media.giphy.com/media/gZuxOq7zSL5DO/giphy.gif" alt="Playable Pixel Game Banner"/>
-  </a>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGV3NTFxemt6d2pwajVuZmtwejdzejd3ZXVqbnFjZmpzYXd4MDJjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnYpT4OL4pFVrBMc9R/giphy.gif" alt="Sanchit's Animated Header"/>
 </p>
 
 <p align="center">
-  Hi, I'm Sanchit Rawool 👋. I'm a passionate Computer Science student from India, focused on turning complex ideas into functional and elegant software solutions.
+  I'm a passionate Computer Science student from India, focused on turning complex ideas into functional and elegant software solutions.
 </p>
 
 ---
@@ -38,7 +36,7 @@
 ---
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanchitR-dev&show_icons=true&theme=radical&rank_icon=github" alt="s-anchit's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SanchitR-dev&show_icons=true&theme=radical&rank_icon=github" alt="sanchit's github stats" />
 </p>
 
 ---
@@ -54,6 +52,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SanchitR-dev&theme=radical&row=1&margin-w=20&exclude=stars,reviews,issues,experience" alt="Sanchit's Trophies" />
   <br>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTR5Y29nbW5qcGc0bHN3dXkzbWhsY3Q2eXZhMndsZ2FhM2V2cHNreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="dev meme" width="400"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5ydGxyNjd2dnZhbHIxdWFteGptYXloY3NxM2dpOXZ4OGtkYjl1cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oQht1Hk7HJ8USa5jrK/giphy.gif" alt="coding sticker" width="150"/>
 </p>
 
 ---

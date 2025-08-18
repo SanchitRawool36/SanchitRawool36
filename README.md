@@ -23,7 +23,7 @@ I'm a passionate Third Year Computer Science student from India, with a love for
 
 ### 💼 What I'm working on
 - My final year project: **[Your Project Name Here]** - A brief, one-line description of what it does.
-- Building a personal portfolio website to showcase my work.
+- Building and refining my **[personal portfolio website](https://profile36.netlify.app/)** to showcase my work.
 
 ---
 
@@ -39,6 +39,6 @@ I'm a passionate Third Year Computer Science student from India, with a love for
 ### 📫 How to reach me:
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sanchit Rawool" height="30" width="40" /></a>
-<a href="https://twitter.com/YOUR-TWITTER-USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YOUR-TWITTER-USERNAME" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sanchit-rawool-136879313/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sanchit Rawool" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sanchit_rawool/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanchit_rawool" height="30" width="40" /></a>
 </p>

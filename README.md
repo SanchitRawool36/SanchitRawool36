@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://profile36.netlify.app/">
-    <img src="https://media.giphy.com/media/xUA7b4arnbo3i7gVzO/giphy.gif" alt="Playable Pixel Game Banner"/>
+    <img src="https://media.giphy.com/media/gZuxOq7zSL5DO/giphy.gif" alt="Playable Pixel Game Banner"/>
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 ---
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanchitR-dev&show_icons=true&theme=radical&rank_icon=github" alt="sanchit's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SanchitR-dev&show_icons=true&theme=radical&rank_icon=github" alt="s-anchit's github stats" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SanchitR-dev&theme=radical&row=1&margin-w=20&exclude=stars,reviews,issues,experience" alt="Sanchit's Trophies" />
   <br>
-  <img src="https://dev-memes.herokuapp.com/meme" alt="dev meme"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTR5Y29nbW5qcGc0bHN3dXkzbWhsY3Q2eXZhMndsZ2FhM2V2cHNreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="dev meme" width="400"/>
 </p>
 
 ---

@@ -49,12 +49,11 @@
 
 ---
 ### 🎮 Just for Fun & Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanchitR-dev&theme=radical&row=1&margin-w=20" alt="Sanchit's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SanchitR-dev&theme=radical&row=1&margin-w=20&exclude=stars,reviews,issues,experience" alt="Sanchit's Trophies" />
   <br>
-  <a href="https://github.com/tech-trove/tech-trove#tech-trove">
-    <img src="https://tech-trove-gules.vercel.app/api/memes" alt="dev meme" height="250px" width="400px"/>
-  </a>
+  <img src="https://random-memer.herokuapp.com/meme" alt="dev meme"/>
 </p>
 
 ---

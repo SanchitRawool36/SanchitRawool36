@@ -20,16 +20,26 @@ I'm a passionate Third Year Computer Science student from India, with a love for
 
 ---
 
-### 🌱 I’m currently learning...
-- Advanced concepts in React State Management.
-- How to deploy applications using Docker and NGINX.
-- Data Structures and Algorithms for competitive programming.
+### 💼 Projects & Experience
+
+-   **AI Cafe System (5th Sem Project):** Developed an AI-based system to streamline operations for cafes and restaurants. **[Live Demo](https://foodiefrd.netlify.app/)**
+-   **Recircle (In Collaboration):** Currently building a full-stack web application focused on recycling and sustainability. **[Live Demo](https://recircle-pro-front.vercel.app/)**
+-   **Personal Portfolio:** Building and refining my personal portfolio website to showcase my work. **[Live Demo](https://profile36.netlify.app/)**
 
 ---
 
-### 💼 What I'm working on
-- My final year project: **[Your Project Name Here]** - A brief, one-line description of what it does.
-- Building and refining my **[personal portfolio website](https://profile36.netlify.app/)** to showcase my work.
+### 🔮 Upcoming Projects
+
+-   **3D Jewellery Site:** A modern e-commerce platform featuring a virtual "Try Now" capability.
+-   **Raw Pulse HMS:** An AI-enhanced Hospital Management System to improve patient and staff experiences.
+
+---
+
+### 🌱 I’m Currently Learning
+
+-   Advanced concepts in React State Management.
+-   How to deploy applications using Docker and NGINX.
+-   Data Structures and Algorithms for competitive programming.
 
 ---
 
@@ -46,6 +56,16 @@ I'm a passionate Third Year Computer Science student from India, with a love for
 
 <p align="center">
   <img src="https://github.com/SanchitR-dev/SanchitR-dev/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
+
+### 🎮 Just for Fun
+
+<p align="center">
+  <i>Building fun mini-projects like pixel games and custom GIFs!</i>
+  <br><br>
+  <img src="https://media.giphy.com/media/wIqCMz驍wNO/giphy.gif" width="150">
 </p>
 
 ---

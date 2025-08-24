@@ -33,8 +33,8 @@
 
 ---
 ### Featured Projects
-| Project Name                  | Description                                                              | Live Demo / Link                                                               |
-| ----------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| Project Name                  | Description                                                              | Live Demo / Link                                                        |
+| ----------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 | **AI Cafe System** | An AI-based system to streamline operations for cafes and restaurants.   | **[Live Demo](https://foodiefrd.netlify.app/)** |
 | **Recircle (Collaboration)** | A web app focused on promoting recycling and sustainability.             | **[Live Demo](https://recircle-pro-front.vercel.app/)** |
 | **Personal Portfolio** | My personal site to showcase projects and skills.                        | **[Live Demo](https://profile36.netlify.app/)** |
@@ -60,7 +60,7 @@
 ### 🎮 Just for Fun & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanchitR-dev&theme=radical&row=1&margin-w=20&exclude=stars,reviews,issues,experience" alt="Sanchit's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SanchitR-dev&theme=radical&row=1" alt="Sanchit's Trophies" />
   <br>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTR5Y29nbW5qcGc0bHN3dXkzbWhsY3Q2eXZhMndsZ2FhM2V2cHNreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="dev meme" width="400"/>
 </p>

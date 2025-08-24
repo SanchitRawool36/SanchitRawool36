@@ -60,7 +60,6 @@
 ### 🎮 Just for Fun & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanchitR-dev&theme=radical&row=1" alt="Sanchit's Trophies" />
   <br>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTR5Y29nbW5qcGc0bHN3dXkzbWhsY3Q2eXZhMndsZ2FhM2V2cHNreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="dev meme" width="400"/>
 </p>

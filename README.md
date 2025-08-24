@@ -57,7 +57,7 @@
 </p>
 
 ---
-### 🎮 Just for Fun & Trophies
+### 🎮 Just for Fun & etc
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchitR-dev&layout=compact&theme=radical" alt="sanchit's top languages" />

@@ -17,7 +17,7 @@
   <table width="100%">
     <tr>
       <td width="70%">
-        <h3>🛠️ My Tech Stack (<a href="https://profile36.netlify.app/">View My Portfolio</a>)</h3>
+        <h3>🛠️ My Tech Stack (<a href="https://sanchitrawool.netlify.app/">View My Portfolio</a>)</h3>
         <p>
           <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,mysql,git,docker,postman" />

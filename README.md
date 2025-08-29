@@ -37,7 +37,7 @@
 | ----------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 | **AI Cafe System** | An AI-based system to streamline operations for cafes and restaurants.   | **[Live Demo](https://foodiefrd.netlify.app/)** |
 | **Recircle (Collaboration)** | A web app focused on promoting recycling and sustainability.             | **[Live Demo](https://recircle-pro-front.vercel.app/)** |
-| **Personal Portfolio** | My personal site to showcase projects and skills.                        | **[Live Demo](https://profile36.netlify.app/)** |
+| **Personal Portfolio** | My personal site to showcase projects and skills.                        | **[Live Demo](https://sanchitrawool.netlify.app/)** |
 
 ---
 ### 🔮 On The Horizon

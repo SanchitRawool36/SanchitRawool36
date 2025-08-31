@@ -6,6 +6,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7A2&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sanchit%2C+a+CS+Student+from+India.;I+love+exploring+the+world+of+Prompt+Engineering;...and+turning+complex+ideas+into+elegant+solutions." alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SanchitR-dev&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Sanchit's Profile Views" />
+</p>
+
 ---
 ### 🚀 Core Interests
 - **Full-Stack Development:** Crafting seamless user experiences from front to back.
@@ -33,8 +37,8 @@
 
 ---
 ### Featured Projects
-| Project Name                  | Description                                                              | Live Demo / Link                                                        |
-| ----------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| Project Name                  | Description                                                              | Live Demo / Link                                                               |
+| ----------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
 | **AI Cafe System** | An AI-based system to streamline operations for cafes and restaurants.   | **[Live Demo](https://foodiefrd.netlify.app/)** |
 | **Recircle (Collaboration)** | A web app focused on promoting recycling and sustainability.             | **[Live Demo](https://recircle-pro-front.vercel.app/)** |
 | **Personal Portfolio** | My personal site to showcase projects and skills.                        | **[Live Demo](https://sanchitrawool.netlify.app/)** |
